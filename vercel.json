@@ -1,0 +1,5 @@
+{
+	"routes": [
+		{"src": "/translate_a/(.*)","dest": "https://translate.googleapis.com/translate_a/$1"}
+	]
+}
